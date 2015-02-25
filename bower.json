@@ -1,0 +1,7 @@
+{
+  "name": "presentation-auckland-nodejs-meetup",
+  "version": "0.0.0",
+  "dependencies": {
+    "prism": "gh-pages"
+  }
+}
